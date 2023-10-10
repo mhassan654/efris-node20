@@ -75,7 +75,7 @@ body {
 /* topbar */
 
 .swagger-ui .topbar {
-  background-color: #7950ed;
+  background-color: #0f049e;
   height: 80px;
   padding: 0;
   display: flex;
@@ -88,7 +88,7 @@ body {
   display: block;
   width: 206px;
   height: 35px;
-  background-image: url("logo-amplication-white.svg");
+  background-image: '';
   background-repeat: no-repeat;
   background-size: contain;
 }
